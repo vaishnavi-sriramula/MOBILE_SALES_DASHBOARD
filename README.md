@@ -1,38 +1,50 @@
-📊 Mobile Sales Dashboard
-This Power BI dashboard presents an interactive and insightful visualization of mobile sales performance across various brands, models, cities, and payment methods.
+# 📊 Mobile Sales Dashboard
 
-🔍 Key Features:
-Total Sales Overview: Displays cumulative sales of ₹769M, covering over 19K units and 4K transactions.
+An interactive and insightful Power BI dashboard that visualizes mobile sales performance across cities, brands, models, and payment methods. This dashboard helps users explore trends and patterns in mobile sales data for better business decision-making.
 
-Brand Performance: Compares sales and quantity of major brands like Apple, Samsung, OnePlus, and Vivo.
+![Dashboard Preview]
+![Screenshot 2025-03-24 233259](https://github.com/user-attachments/assets/9fc99e02-d0a3-476a-8594-12e5199db952)
 
-City-wise Sales: Geographic distribution of sales across key Indian cities using a map visualization.
+## 🔍 Features
 
-Sales by Mobile Model: Highlights top-performing models such as iPhone SE, OnePlus, and Galaxy Note series.
+- 📈 **Total Sales Overview**  
+  - ₹769M in total sales  
+  - 19K units sold  
+  - 4K+ transactions
 
-Customer Ratings: Shows distribution of product ratings (1 to 5 stars) with the majority being 5-star.
+- 🏷️ **Brand Performance**  
+  - Sales and quantity comparison for top brands: Apple, Samsung, OnePlus, and Vivo
 
-Transactions by Payment Method: Pie chart representing UPI, Debit Card, Cash, and Credit Card usage.
+- 🗺️ **City-wise Sales Distribution**  
+  - Interactive map showing sales across Indian cities like Mumbai, Delhi, Bangalore, Kolkata, etc.
 
-Sales Trend Analysis: Line and bar charts to explore sales and quantity patterns by day of the month and day of the week.
+- 📱 **Top Mobile Models by Sales**  
+  - iPhone SE, OnePlus, and Galaxy Note dominate the charts
 
-Dynamic Filters: Enables filtering data based on mobile model, payment method, brand, and day name.
+- ⭐ **Customer Ratings Breakdown**  
+  - Visual distribution of product ratings from 1 to 5 stars
 
-Monthly Navigation: Side panel for quick access to month-wise data.
+- 💳 **Transactions by Payment Method**  
+  - UPI, Debit Card, Cash, and Credit Card visualized in a pie chart
 
-📁 Tech Stack:
-Tool Used: Microsoft Power BI
+- 📅 **Sales by Day & Date**  
+  - Bar and line charts showing sales trends by day of the week and day of the month
 
-Data Source: Sample mobile sales data
+- 🧠 **Interactive Filters**  
+  - Slice and explore data by mobile model, payment method, brand, and day name
 
-Visualizations: Pie charts, line graphs, bar charts, map, and KPI indicators
+- 📆 **Month Navigation Panel**  
+  - Navigate through months using side buttons for better focus
 
-📌 Use Cases:
-Sales performance tracking
+## 🛠️ Tech Stack
 
-Marketing and promotional planning
+- **Tool Used**: Microsoft Power BI  
+- **Data Source**: Sample mobile sales dataset  
+- **Visual Elements**: KPI cards, Pie charts, Line graphs, Bar charts, Maps, Filters
 
-Inventory and logistics decision-making
+## 📌 Use Cases
 
-Customer behavior analysis
-
+- Sales monitoring and performance review  
+- Inventory and supply chain planning  
+- Marketing and promotional strategy  
+- Customer behavior and preference analysis
